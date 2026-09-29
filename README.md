@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Waving Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26,45&height=230&section=header&text=Priyanka%20Mod&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sr.%20React%20Native%20Developer%20%7C%20Cross-Platform%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Priyanka Mod Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=230&section=header&text=Priyanka%20Mod&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sr.%20React%20Native%20Developer%20%7C%20Cross-Platform%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Priyanka Mod Header Banner" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
@@ -40,17 +39,9 @@
 
   <!-- Social & Direct Connect -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/priyanka-mod" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:ms.priyankamod@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/priyanka-mod" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <a href="https://www.linkedin.com/in/priyanka-mod" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42IDEuNiAwIDAgMC0xLjYgMS42IDEuNiAxLjYgMCAwIDAgMS42IDEuNiAxLjYgMS42IDAgMCAwIDEuNi0xLjYgMS42IDEuNiAwIDAgMC0xLjYtMS42WiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:ms.priyankamod@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <a href="https://github.com/priyanka-mod" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -93,8 +84,8 @@ Over the past **2.5+ years**, I have brought over **10+ mobile products** from a
     <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" alt="Backend and Cloud" />
   </a>
   <p>
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
+    <img src="https://img.shields.io/badge/Socket.io-00B4D8?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+    <img src="https://img.shields.io/badge/WebSockets-4D96FF?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
   </p>
 
@@ -164,20 +155,11 @@ I'm always open to discussing new mobile product engineering roles, freelance ar
 
 <div align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/priyanka-mod" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ms.priyankamod@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/priyanka-mod" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/priyanka-mod" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42IDEuNiAwIDAgMC0xLjYgMS42IDEuNiAxLjYgMCAwIDAgMS42IDEuNiAxLjYgMS42IDAgMCAwIDEuNi0xLjYgMS42IDEuNiAwIDAgMC0xLjYtMS42WiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:ms.priyankamod@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/priyanka-mod" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Explore_GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br/><br/>
 </div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26,45&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
