@@ -1,11 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=230&section=header&text=Priyanka%20Mod&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sr.%20React%20Native%20Developer%20%7C%20Cross-Platform%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Priyanka Mod Header Banner" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=230&section=header&text=Priyanka%20Mod&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sr.%20React%20Native%20Developer%20%7C%20Cross-Platform%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Priyanka Mod Header Banner" /></picture>
 
   <!-- Animated Typing Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=650&lines=%E2%9C%A8+Sr.+React+Native+Developer;%F0%9F%93%B1+Crafting+High-Performance+iOS+%26+Android+Apps;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+Globally;%F0%9F%92%A0+Pixel-Perfect+UI+%E2%80%A2+Fluid+Animations+%E2%80%A2+60+FPS" alt="Typing SVG" />
-  </a>
+  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=650&lines=%E2%9C%A8+Sr.+React+Native+Developer;%F0%9F%93%B1+Crafting+High-Performance+iOS+%26+Android+Apps;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+Globally;%F0%9F%92%A0+Pixel-Perfect+UI+%E2%80%A2+Fluid+Animations+%E2%80%A2+60+FPS" alt="Typing SVG" /></picture>
 
   <br/><br/>
 
@@ -13,22 +11,22 @@
   <table>
     <tr>
       <td align="center" width="180">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="36" alt="Experience"/><br/>
+        <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="36" alt="Experience"/></picture><br/>
         <b>Experience</b><br/>
         <sub><b>2.5+ Years</b></sub>
       </td>
       <td align="center" width="180">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="36" alt="Delivered"/><br/>
+        <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="36" alt="Delivered"/></picture><br/>
         <b>Track Record</b><br/>
         <sub><b>10+ Apps Shipped</b></sub>
       </td>
       <td align="center" width="180">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="36" alt="Location"/><br/>
+        <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="36" alt="Location"/></picture><br/>
         <b>Location</b><br/>
         <sub><b>Rajkot, Gujarat, IN</b></sub>
       </td>
       <td align="center" width="180">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="36" alt="Education"/><br/>
+        <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="36" alt="Education"/></picture><br/>
         <b>Education</b><br/>
         <sub><b>B.Tech Computer Eng.</b></sub>
       </td>
@@ -48,7 +46,7 @@
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="24" align="center" /></sup>&nbsp; Who I Am & What I Do
+### <sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="24" align="center" /></picture></sup>&nbsp; Who I Am & What I Do
 
 Hey there! I am **Priyanka Mod**, a **Senior React Native Developer** with a deep passion for building polished, snappy, and human-centered mobile experiences.
 
@@ -62,62 +60,46 @@ Over the past **2.5+ years**, I have brought over **10+ mobile products** from a
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" align="center" /></sup>&nbsp; Core Tech Stack
+### <sup><picture><img src="https://files.catbox.moe/u8k107.png" width="24" align="center" /></picture></sup>&nbsp; Core Tech Stack
 
 <div align="center">
 
   <p><b>Mobile & Frontend Frameworks</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css&theme=dark" alt="Mobile and Frontend Stack" />
-  </a>
+  <picture><img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css&theme=dark" alt="Mobile and Frontend Stack" /></picture>
 
   <br/><br/>
 
   <p><b>Real-Time, Backend & Cloud</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" alt="Backend and Cloud" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/badge/Socket.io-00B4D8?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-    <img src="https://img.shields.io/badge/WebSockets-4D96FF?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
-    <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
-  </p>
+  <picture><img src="https://iili.io/nY0nsMN.png" height="48" alt="Real-Time, Backend & Cloud Stack" /></picture>
 
-  <br/>
+  <br/><br/>
 
   <p><b>Mobile Toolchain, Native IDEs & Monitoring</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,androidstudio,vscode,git,github,sentry&theme=dark" alt="Tools & Workflow" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-    <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
-  </p>
+  <picture><img src="https://iili.io/nY0nyNf.png" height="48" alt="Mobile Toolchain and Native IDEs Stack" /></picture>
 </div>
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center" /></sup>&nbsp; What I Bring to Your Engineering Team
+### <sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center" /></picture></sup>&nbsp; What I Bring to Your Engineering Team
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" align="center" /></sup>&nbsp; Cross-Platform App Mastery</h4>
+      <h4><sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" align="center" /></picture></sup>&nbsp; Cross-Platform App Mastery</h4>
       <p>Translating Figma / UI designs into fluid, responsive iOS & Android mobile applications. Ensuring platform-specific styling guidelines (Human Interface Guidelines & Material Design) feel native on all screen form factors.</p>
     </td>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" align="center" /></sup>&nbsp; 60 FPS Performance Tuning</h4>
+      <h4><sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" align="center" /></picture></sup>&nbsp; 60 FPS Performance Tuning</h4>
       <p>Eliminating unnecessary re-renders, profiling thread bottlenecks, optimizing heavy lists with <code>FlashList</code>, reducing bundle sizes, and ensuring smooth gesture-driven UI animations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" align="center" /></sup>&nbsp; Real-Time & Offline First</h4>
+      <h4><sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" align="center" /></picture></sup>&nbsp; Real-Time & Offline First</h4>
       <p>Building resilient real-time architecture utilizing <b>WebSockets, Socket.io</b>, and <b>Firebase</b> for live messaging, notifications, order tracking, and intelligent asynchronous caching via <b>React Query</b>.</p>
     </td>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" align="center" /></sup>&nbsp; Production Stability & App Store Release</h4>
+      <h4><sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" align="center" /></picture></sup>&nbsp; Production Stability & App Store Release</h4>
       <p>Managing complete release lifecycles across <b>Xcode</b> & <b>Android Studio</b>. Integrating proactive telemetry and automated crash logging with <b>Sentry</b> for 99.9% crash-free sessions.</p>
     </td>
   </tr>
@@ -125,7 +107,7 @@ Over the past **2.5+ years**, I have brought over **10+ mobile products** from a
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" align="center" /></sup>&nbsp; Let's Build Something Great Together!
+### <sup><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" align="center" /></picture></sup>&nbsp; Let's Build Something Great Together!
 
 I'm always open to discussing new mobile product engineering roles, freelance architectures, or tech collaborations.
 
@@ -137,5 +119,5 @@ I'm always open to discussing new mobile product engineering roles, freelance ar
   <br/><br/>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=100&section=footer" width="100%" alt="Footer Wave" /></picture>
 </div>
