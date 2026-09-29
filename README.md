@@ -48,7 +48,7 @@
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="24" height="24" align="center" /></sup>&nbsp; Who I Am & What I Do
+### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="24" align="center" /></sup>&nbsp; Who I Am & What I Do
 
 Hey there! I am **Priyanka Mod**, a **Senior React Native Developer** with a deep passion for building polished, snappy, and human-centered mobile experiences.
 
@@ -62,7 +62,7 @@ Over the past **2.5+ years**, I have brought over **10+ mobile products** from a
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" height="24" align="center" /></sup>&nbsp; Core Tech Stack
+### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" align="center" /></sup>&nbsp; Core Tech Stack
 
 <div align="center">
 
@@ -98,26 +98,26 @@ Over the past **2.5+ years**, I have brought over **10+ mobile products** from a
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" height="24" align="center" /></sup>&nbsp; What I Bring to Your Engineering Team
+### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center" /></sup>&nbsp; What I Bring to Your Engineering Team
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" height="18" align="center" /></sup>&nbsp; Cross-Platform App Mastery</h4>
+      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" align="center" /></sup>&nbsp; Cross-Platform App Mastery</h4>
       <p>Translating Figma / UI designs into fluid, responsive iOS & Android mobile applications. Ensuring platform-specific styling guidelines (Human Interface Guidelines & Material Design) feel native on all screen form factors.</p>
     </td>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" height="18" align="center" /></sup>&nbsp; 60 FPS Performance Tuning</h4>
+      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" align="center" /></sup>&nbsp; 60 FPS Performance Tuning</h4>
       <p>Eliminating unnecessary re-renders, profiling thread bottlenecks, optimizing heavy lists with <code>FlashList</code>, reducing bundle sizes, and ensuring smooth gesture-driven UI animations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" height="18" align="center" /></sup>&nbsp; Real-Time & Offline First</h4>
+      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" align="center" /></sup>&nbsp; Real-Time & Offline First</h4>
       <p>Building resilient real-time architecture utilizing <b>WebSockets, Socket.io</b>, and <b>Firebase</b> for live messaging, notifications, order tracking, and intelligent asynchronous caching via <b>React Query</b>.</p>
     </td>
     <td width="50%" valign="top">
-      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" height="18" align="center" /></sup>&nbsp; Production Stability & App Store Release</h4>
+      <h4><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" align="center" /></sup>&nbsp; Production Stability & App Store Release</h4>
       <p>Managing complete release lifecycles across <b>Xcode</b> & <b>Android Studio</b>. Integrating proactive telemetry and automated crash logging with <b>Sentry</b> for 99.9% crash-free sessions.</p>
     </td>
   </tr>
@@ -125,7 +125,7 @@ Over the past **2.5+ years**, I have brought over **10+ mobile products** from a
 
 ---
 
-### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" height="24" align="center" /></sup>&nbsp; Let's Build Something Great Together!
+### <sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" align="center" /></sup>&nbsp; Let's Build Something Great Together!
 
 I'm always open to discussing new mobile product engineering roles, freelance architectures, or tech collaborations.
 
